@@ -2,18 +2,18 @@
 
 ### HI VICTOR! 
 
-How to name your files and build related materials
+**How to name your files and build related materials**
 
-How to define your naming conventions ie for assets and scrips
+**How to define your naming conventions ie for assets and scrips**
 
-Checklist of stuff that you need in order to publish a gameon:
-  - Steam
-  - GOG
-  - itch.io
-  - app store/ IOS/ MS/ Droid
-  - Xbox/ ID@Xbox
+**Checklist of stuff that you need in order to publish a game on:**
+- Steam
+- GOG
+- itch.io
+- app store/ IOS/ MS/ Droid
+- Xbox/ ID@Xbox
  
- Legal considerations
+**Legal considerations**
  
  IP Management and protection
  
